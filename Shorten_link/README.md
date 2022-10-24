@@ -22,7 +22,3 @@ This tool generates a short URL using [pyshorteners](https://pypi.org/project/py
 
 ## Features
 - 💻 This tool works over the internet
-<br></br>
-
-## Link
-- [Download](https://github.com/)
