@@ -14,6 +14,3 @@ This Currency Converter can be used to convert your money from one currency to a
 ## Features
 - 💻 This tool works over the internet
 - 📊 Exchange rate data is taken from the official website of the [National Bank of Ukraine](https://bank.gov.ua/)
-
-## Link
-- [Download](https://github.com/)
