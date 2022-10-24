@@ -14,6 +14,3 @@ The translation process is implemented using [googletrans](https://pypi.org/proj
 ## Features
 - 💻 This tool works over the internet
 - 🆎 Supports more than 100 languages
-
-## Link
-- [Download](https://github.com/)
