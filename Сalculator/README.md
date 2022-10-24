@@ -12,6 +12,3 @@ This calculator is simple app which provides standard, scientific, and programme
 ## Features
 - 🔌 This calculator works offline
 - 🔢 Standard calculator functionality which offers basic operations
-
-## Link
-- [Download](https://github.com/)
